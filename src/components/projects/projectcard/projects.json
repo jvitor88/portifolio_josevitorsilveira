@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "image": "url(./midia/images/calculadora-ze.png)",
+        "title": "Calculadora do Zé",
+        "description": "Consiste em uma aplicação criada para garantir assertividade na hora de escolher a cerveja que irá ter o melhor CUSTO x ML para seus eventos.",
+        "gitlink": "https://github.com/jvitor88/calculadora_do_ze",
+        "pagelink": "https://jvitor88.github.io/calculadora_do_ze/"
+    },
+    {
+        "id": 1,
+        "image":"url(./midia/images/portifolio-fotografo.png)",
+        "title": "Portifolio Fotógrafo",
+        "description": "Projeto de um portfólio para fotógrafos responsivo, exibindo uma seleção de suas melhores fotos. Além de incluir uma seção de biografia e opções de contato para atrair clientes em potencial e demonstrar suas habilidades fotográficas.",
+        "gitlink": "https://github.com/jvitor88/Portifolio-Fotografo",
+        "pagelink": "https://jvitor88.github.io/Portifolio-Fotografo/"
+    },
+    {
+        "id": 2,
+        "image":"url(./midia/images/github-api.png)",
+        "title": "Projeto Fetch com API do Github",
+        "description": "Aplicação criada se baseando desafio do curso DevQuest, onde foi solicitado a criação de uma page que busca os dados dos usuários do Github através de uma api.",
+        "gitlink": "https://github.com/jvitor88/projeto-github-api",
+        "pagelink": "https://jvitor88.github.io/projeto-github-api/"
+    },
+    {
+        "id": 3,
+        "image":"url(./midia/images/todolist.png)",
+        "title": "To Do List",
+        "description": "Aplicação criada se baseando desafio do Matheus Battisti - Hora de Codar, onde foi solicitado a criação de uma aplicação para adicionar tarefas.",
+        "gitlink": "https://github.com/jvitor88/To-Do-List",
+        "pagelink": "https://jvitor88.github.io/To-Do-List/"
+    },
+    {
+        "id": 4,
+        "image":"url(./midia/images/formulario.png)",
+        "title": "Formulario com Validação",
+        "description": "Desafio do curso DevQuest, onde foi solicitado a criação de um formulário baseado em um Figma.",
+        "gitlink": "https://github.com/jvitor88/Projeto-Formulario",
+        "pagelink": "https://jvitor88.github.io/Projeto-Formulario/"
+    }
+]

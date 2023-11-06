@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Whatsapp",
+        "logo": "./midia/logos/whatsapp.png",
+        "info": "Entre em Contato!",
+        "adress": "https://whatsa.me/5521974947272"
+    },
+    {
+        "id": 1,
+        "name": "Linkedin",
+        "logo": "./midia/logos/linkedin.png",
+        "info": "/josevitorsilveira",
+        "adress": "https://www.linkedin.com/in/josevitorsilveira/"
+    },
+    {
+        "id": 2,
+        "name": "Github",
+        "logo": "./midia/logos/github.png",
+        "info": "@jvitor88",
+        "adress": "https://github.com/jvitor88"
+    },
+    {
+        "id": 3,
+        "name": "E-mail",
+        "logo": "./midia/logos/email.png",
+        "info": "jvsilveira11@gmail.com",
+        "adress": "Copy"
+    }
+]
