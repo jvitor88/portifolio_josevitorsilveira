@@ -1,8 +1,23 @@
-# React + Vite
+# Meu Portifolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://uploaddeimagens.com.br/images/004/657/698/full/portifolio.png?1699322830" width="400" />
 
-Currently, two official plugins are available:
+## Objetivo:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Essa é uma proposta para demonstrar alguns de meus projetos e conhecimentos.
+
+## Foi utilizado:
+
+- React;
+- JavaScript;
+
+## Link do Projeto:
+
+👉 <a href="https://jvitor88.github.io/portifolio_josevitorsilveira/" target="_blank">Clique Aqui</a>
+
+ ### Minhas redes: 
+
+<div>
+  <a href="https://www.linkedin.com/in/jose-silveira-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jvsilveira11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
