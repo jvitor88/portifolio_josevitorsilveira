@@ -25,11 +25,11 @@
     },
     {
         "id": 3,
-        "image":"url(./midia/images/todolist.png)",
-        "title": "To Do List",
-        "description": "Aplicação criada se baseando desafio do Matheus Battisti - Hora de Codar, onde foi solicitado a criação de uma aplicação para adicionar tarefas.",
-        "gitlink": "https://github.com/jvitor88/To-Do-List",
-        "pagelink": "https://jvitor88.github.io/To-Do-List/"
+        "image":"url(./midia/images/lista-compras.png)",
+        "title": "Lista de Compras",
+        "description": "Aplicação criada se baseando no desafio do Matheus Battisti - Hora de Codar, onde criei uma lista de compras personalizada onde é possível marcar os produtos já selecionados facilitando o controle.",
+        "gitlink": "https://github.com/jvitor88/lista-compras",
+        "pagelink": "http://compras.jvsilveira.dev.br/"
     },
     {
         "id": 4,
