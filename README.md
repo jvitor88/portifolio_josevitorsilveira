@@ -13,7 +13,7 @@ Essa é uma proposta para demonstrar alguns de meus projetos e conhecimentos.
 
 ## Link do Projeto:
 
-👉 <a href="https://jvitor88.github.io/portifolio_josevitorsilveira/" target="_blank">Clique Aqui</a>
+👉 <a href="http://www.jvsilveira.dev.br/" target="_blank">Clique Aqui</a>
 
  ### Minhas redes: 
 
