@@ -165,7 +165,7 @@ Error generating stack: `+o.message+`
         color: #ffff;
         font-size: 80px;
     }
-    @media (max-width: 1300px) {
+    @media (max-width: 1440px) {
         justify-content: center;
     }
 `,$m=X.div`
