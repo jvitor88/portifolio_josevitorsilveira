@@ -96,26 +96,26 @@ const Intro = () => {
         <header>
             <StyledIntro id="intro">
                 <StyledName>
-                    <h1>Olá, eu sou o <br/> <img src="./src/assets/logos/j-logo.png" alt="logo da letra J"/>osé Vitor <br/> <img src="./src/assets/logos/s-logo.png" alt="logo da letra S"/>ilveira</h1>
+                    <h1>Olá, eu sou o <br/> <img src="./midia/logos/j-logo.png" alt="logo da letra J"/>osé Vitor <br/> <img src="./midia/logos/s-logo.png" alt="logo da letra S"/>ilveira</h1>
                     <p>Desenvolvedor FrontEnd</p>
                     <div>
-                        <a href="../src/data/Curriculum Vitae - Jose Vitor da Silveira Cunha.pdf" download>
+                        <a href="../public/data/Curriculum Vitae - Jose Vitor da Silveira Cunha.pdf" download>
                             <button>
-                                <img src="./src/assets/logos/cv.png" alt="Ícone do Github"/>  Currículo
+                                <img src="./midia/logos/cv.png" alt="Ícone do Github"/>  Currículo
                             </button>
                         </a>
                         <a href="https://www.linkedin.com/in/josevitorsilveira/" target="_blank">
                             <button>
-                                <img src="./src/assets/logos/linkedin_icon.png" alt="Ícone do Linkedin"/>  Linkedin
+                                <img src="./midia/logos/linkedin_icon.png" alt="Ícone do Linkedin"/>  Linkedin
                             </button>
                         </a>
                     </div>
                 </StyledName>
                 <StyledGif>
-                    <img src="./src/assets/images/my-gif.gif" alt="" />
+                    <img src="./midia/images/my-gif.gif" alt="" />
                 </StyledGif>
             </StyledIntro>
-            <img className="waves" src="./src/assets/images/wave.svg" alt="ondas azuis" id="waves"/>
+            <img className="waves" src="./midia/images/wave.svg" alt="ondas azuis" id="waves"/>
         </header>
     )
 }

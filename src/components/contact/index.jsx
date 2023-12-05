@@ -18,7 +18,7 @@ const CardsContainer = styled.div`
 const Contact = () => {
     return(
         <footer>
-            <img src="../../src/assets/images/wave-footer.svg" alt="Ondas azuis" />
+            <img src="../../midia/images/wave-footer.svg" alt="Ondas azuis" />
             <ContactContainer id="contact">
                 <Subtitle $cor='#fff'>Contato</Subtitle>
                 <CardsContainer>

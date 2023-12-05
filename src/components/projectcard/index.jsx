@@ -78,8 +78,8 @@ const ProjectCard = () => {
         <StyledCard key={project.id}>
             <ImageContainer $src={project.image}>
                 <Links>
-                    <a href={project.gitlink} target='_blank'><img src="./src/assets/logos/github.svg" alt="Ícone do Github"/></a>
-                    <a href={project.pagelink} target='_blank'><img src="./src/assets/logos/link.svg" alt="Ícone de Link"/></a>
+                    <a href={project.gitlink} target='_blank'><img src="./assets/logos/github.svg" alt="Ícone do Github"/></a>
+                    <a href={project.pagelink} target='_blank'><img src="./assets/logos/link.svg" alt="Ícone de Link"/></a>
                 </Links>
             </ImageContainer>
             <StyledDesc>

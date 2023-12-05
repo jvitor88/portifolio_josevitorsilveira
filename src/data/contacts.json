@@ -2,28 +2,28 @@
     {
         "id": 0,
         "name": "Whatsapp",
-        "logo": "./src/assets/logos/whatsapp.png",
+        "logo": "./midia/logos/whatsapp.png",
         "info": "Entre em Contato!",
         "adress": "https://whatsa.me/5521974947272"
     },
     {
         "id": 1,
         "name": "Linkedin",
-        "logo": "./src/assets/logos/linkedin.png",
+        "logo": "./midia/logos/linkedin.png",
         "info": "/josevitorsilveira",
         "adress": "https://www.linkedin.com/in/josevitorsilveira/"
     },
     {
         "id": 2,
         "name": "Github",
-        "logo": "./src/assets/logos/github.png",
+        "logo": "./midia/logos/github.png",
         "info": "@jvitor88",
         "adress": "https://github.com/jvitor88"
     },
     {
         "id": 3,
         "name": "E-mail",
-        "logo": "./src/assets/logos/email.png",
+        "logo": "./midia/logos/email.png",
         "info": "jvsilveira11@gmail.com",
         "adress": "Copy"
     }

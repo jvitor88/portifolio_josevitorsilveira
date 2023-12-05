@@ -53,7 +53,7 @@ const ListLink = styled.a`
 const NavBar = () => {
     return(
         <StyledNav>
-                <a href="#intro"><img src="./src/assets/logos/logojs.png" alt="Logo José Silveira"/></a>
+                <a href="#intro"><img src="./midia/logos/logojs.png" alt="Logo José Silveira"/></a>
             <StyledList>
                 <ListLink href="#waves">
                     <li>Sobre Mim</li>
