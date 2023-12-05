@@ -155,7 +155,7 @@ Error generating stack: `+o.message+`
     @media (max-width: 550px) {
         width: 300px;
     }
-`,Lm=()=>E.jsx("section",{children:E.jsxs(Tm,{id:"aboutme",children:[E.jsx("img",{src:"./images/Foto-perfil.jpg",alt:"Foto de José Silveira"}),E.jsxs(Rm,{children:[E.jsx(fo,{children:"Sobre Mim"}),E.jsx("p",{children:"Meu nome é José Vitor Silveira, tenho 26 anos e sou de São Gonçalo/RJ. Trabalho com suporte de TI, mas meu objetivo é me dedicar a área de desenvolvimento. Sou comunicativo, detalhista e gosto de trabalhar em equipe. Estou sempre buscando aprender e acompanhar as novidades tecnológicas e quero crescer na área de desenvolvimento para contribuir com meu empenho e dedicação a tornar ideias em produtos reais."})]})]})}),Im=X.div`
+`,Lm=()=>E.jsx("section",{children:E.jsxs(Tm,{id:"aboutme",children:[E.jsx("img",{src:"./midia/images/Foto-perfil.jpg",alt:"Foto de José Silveira"}),E.jsxs(Rm,{children:[E.jsx(fo,{children:"Sobre Mim"}),E.jsx("p",{children:"Meu nome é José Vitor Silveira, tenho 26 anos e sou de São Gonçalo/RJ. Trabalho com suporte de TI, mas meu objetivo é me dedicar a área de desenvolvimento. Sou comunicativo, detalhista e gosto de trabalhar em equipe. Estou sempre buscando aprender e acompanhar as novidades tecnológicas e quero crescer na área de desenvolvimento para contribuir com meu empenho e dedicação a tornar ideias em produtos reais."})]})]})}),Im=X.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
