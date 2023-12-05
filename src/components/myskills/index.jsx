@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import Subtitle from "../subtitle"
-import Skills from "./skills"
+import Skills from "../skillscard"
 
 const StyledSkills = styled.div`
     margin: 100px;

@@ -1,6 +1,6 @@
 
 import styled from 'styled-components'
-import contacts from './contacts.json'
+import contacts from '../../data/contacts.json'
 
 const StyledCards = styled.a`
     display: flex;

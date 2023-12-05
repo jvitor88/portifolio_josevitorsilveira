@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-import skills from './skills.json'
+import skills from '../../data/skills.json'
 
 const SkillBox = styled.div`
     display: flex;
@@ -29,7 +29,7 @@ const SkillBox = styled.div`
     }
 `
 
-const Skills = () => {
+const Skillscard = () => {
     return(
             (skills.map(skill => 
             <SkillBox key={skill.id} id='skills'>
@@ -39,4 +39,4 @@ const Skills = () => {
     )
 }
 
-export default Skills
+export default Skillscard

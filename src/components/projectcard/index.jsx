@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import projectfiles from './projects.json'
+import projectfiles from '../../data/projects.json'
 
 const StyledCard = styled.div`
     display: flex;
@@ -78,8 +78,8 @@ const ProjectCard = () => {
         <StyledCard key={project.id}>
             <ImageContainer $src={project.image}>
                 <Links>
-                    <a href={project.gitlink} target='_blank'><img src="./midia/icons/github.svg" alt="Ícone do Github"/></a>
-                    <a href={project.pagelink} target='_blank'><img src="./midia/icons/link.svg" alt="Ícone de Link"/></a>
+                    <a href={project.gitlink} target='_blank'><img src="./src/assets/logos/github.svg" alt="Ícone do Github"/></a>
+                    <a href={project.pagelink} target='_blank'><img src="./src/assets/logos/link.svg" alt="Ícone de Link"/></a>
                 </Links>
             </ImageContainer>
             <StyledDesc>

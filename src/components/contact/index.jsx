@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import Subtitle from "../subtitle"
-import ContactCards from "./contactcard"
+import ContactCards from "../contactcard"
 
 const ContactContainer = styled.div`
     background-color: #00204B;
@@ -18,7 +18,7 @@ const CardsContainer = styled.div`
 const Contact = () => {
     return(
         <footer>
-            <img src="./midia/wave-footer.svg" alt="Ondas azuis" />
+            <img src="../../src/assets/images/wave-footer.svg" alt="Ondas azuis" />
             <ContactContainer id="contact">
                 <Subtitle $cor='#fff'>Contato</Subtitle>
                 <CardsContainer>

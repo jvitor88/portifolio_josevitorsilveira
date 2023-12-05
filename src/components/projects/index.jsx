@@ -1,7 +1,7 @@
 
 import styled from 'styled-components'
 import Subtitle from '../subtitle'
-import ProjectCard from './projectcard'
+import ProjectCard from '../projectcard'
 
 
 const ProjectsContainer = styled.div`

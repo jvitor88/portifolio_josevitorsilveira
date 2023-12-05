@@ -10,15 +10,16 @@ const StyledIntro = styled.div`
         color: #ffff;
         font-size: 80px;
     }
-    @media (max-width: 1440px) {
+    @media (max-width: 1500px) {
         justify-content: center;
     }
 `
 const StyledName = styled.div`
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 24px;
-    margin-left: 300px;
+    margin-left: 200px;
     h1{
         img{
             width: 50px;
@@ -26,11 +27,13 @@ const StyledName = styled.div`
         }
     }
     p{
+        align-self: flex-start;
         font-size: 24px;
         font-style: italic;
         color: #fff;
     }
     div{
+        width: 500px;
         display: flex;
         gap: 30px;
     }
@@ -58,13 +61,17 @@ const StyledName = styled.div`
             opacity: 0.8;
         }
     }
-    @media (max-width: 1300px) {
+    @media (max-width: 1500px) {
         padding: 20px;
         text-align: center;
         margin: 0px;
         div{
             justify-content: center;
             margin-bottom: 30px;
+            width: 300px;
+        }
+        p{
+            align-self: center;
         }
         button{
             width: auto;
@@ -78,11 +85,9 @@ const StyledGif = styled.div`
     img{
         width: 800px;
     }
-    @media (max-width: 1300px) {
+    @media (max-width: 1500px) {
         margin: 0;
-        img {
-            display: none;
-        }
+        display: none;
     }
 `
 
@@ -91,26 +96,26 @@ const Intro = () => {
         <header>
             <StyledIntro id="intro">
                 <StyledName>
-                    <h1>Olá, eu sou o <br/> <img src="./midia/j-logo.png" alt="logo da letra J"/>osé Vitor <br/> <img src="./midia/s-logo.png" alt="logo da letra S"/>ilveira</h1>
-                    <p>Desenvolvedor Web</p>
+                    <h1>Olá, eu sou o <br/> <img src="./src/assets/logos/j-logo.png" alt="logo da letra J"/>osé Vitor <br/> <img src="./src/assets/logos/s-logo.png" alt="logo da letra S"/>ilveira</h1>
+                    <p>Desenvolvedor FrontEnd</p>
                     <div>
-                        <a href="https://github.com/jvitor88" target="_blank">
+                        <a href="../src/data/Curriculum Vitae - Jose Vitor da Silveira Cunha.pdf" download>
                             <button>
-                                <img src="./midia/icons/github.png" alt="Ícone do Github"/>  Github
+                                <img src="./src/assets/logos/cv.png" alt="Ícone do Github"/>  Currículo
                             </button>
                         </a>
                         <a href="https://www.linkedin.com/in/josevitorsilveira/" target="_blank">
                             <button>
-                                <img src="./midia/icons/linkedin.png" alt="Ícone do Linkedin"/>  Linkedin
+                                <img src="./src/assets/logos/linkedin_icon.png" alt="Ícone do Linkedin"/>  Linkedin
                             </button>
                         </a>
                     </div>
                 </StyledName>
                 <StyledGif>
-                    <img src="./midia/my-gif.gif" alt="" />
+                    <img src="./src/assets/images/my-gif.gif" alt="" />
                 </StyledGif>
             </StyledIntro>
-            <img className="waves" src="./midia/wave.svg" alt="ondas azuis" id="waves"/>
+            <img className="waves" src="./src/assets/images/wave.svg" alt="ondas azuis" id="waves"/>
         </header>
     )
 }

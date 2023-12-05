@@ -7,7 +7,6 @@ import Contact from "./components/contact"
 import Projects from "./components/projects"
 
 function App() {
-
   return (
     <>
       <GlobalStyles/>

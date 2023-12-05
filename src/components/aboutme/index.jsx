@@ -55,7 +55,7 @@ const AboutMe = () => {
     return( 
         <section>
             <StyledAbout id="aboutme">
-                <img src="./midia/Foto-perfil.jpg" alt="Foto de José Silveira" />
+                <img src="./src/assets/images/Foto-perfil.jpg" alt="Foto de José Silveira" />
                 <StyledText>
                     <Subtitle>Sobre Mim</Subtitle>
                     <p>Meu nome é José Vitor Silveira, tenho 26 anos e sou de São Gonçalo/RJ. Trabalho com suporte de TI, mas meu objetivo é me dedicar a área de desenvolvimento. Sou comunicativo, detalhista e gosto de trabalhar em equipe. Estou sempre buscando aprender e acompanhar as novidades tecnológicas e quero crescer na área de desenvolvimento para contribuir com meu empenho e dedicação a tornar ideias em produtos reais.</p>

@@ -2,41 +2,41 @@
     {
         "id": 0,
         "nome": "React.js",
-        "logo": "./midia/logos/react.png"
+        "logo": "./src/assets/logos/react.png"
     },
     {
         "id": 1,
         "nome": "Javascript",
-        "logo": "./midia/logos/javascript.png"
+        "logo": "./src/assets/logos/javascript.png"
     },
     {
         "id": 2,
         "nome": "Typescript",
-        "logo": "./midia/logos/typescript.png"
+        "logo": "./src/assets/logos/typescript.png"
     },
     {
         "id": 3,
-        "nome": "Bootstrap",
-        "logo": "./midia/logos/bootstrap.png"
+        "nome": "Tailwind",
+        "logo": "./src/assets/logos/tailwind.png"
     },
     {
         "id": 4,
         "nome": "Git",
-        "logo": "./midia/logos/git.png"
+        "logo": "./src/assets/logos/git.png"
     },
     {
         "id": 5,
         "nome": "HTML",
-        "logo": "./midia/logos/html.png"
+        "logo": "./src/assets/logos/html.png"
     },
     {
         "id": 6,
         "nome": "CSS",
-        "logo": "./midia/logos/css.png"
+        "logo": "./src/assets/logos/css.png"
     },
     {
         "id": 7,
         "nome": "MySQL",
-        "logo": "./midia/logos/mysql.png"
+        "logo": "./src/assets/logos/mysql.png"
     }
 ]
