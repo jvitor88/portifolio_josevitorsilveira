@@ -376,7 +376,7 @@ Error generating stack: `+o.message+`
     @media (max-width: 450px) {
         width: 320px;
     }
-`,bm=()=>Ym.map(e=>E.jsxs(Xm,{children:[E.jsx(Zm,{$src:e.image,children:E.jsxs(Jm,{children:[E.jsx("a",{href:e.gitlink,target:"_blank",children:E.jsx("img",{src:"./assets/logos/github.svg",alt:"Ícone do Github"})}),E.jsx("a",{href:e.pagelink,target:"_blank",children:E.jsx("img",{src:"./assets/logos/link.svg",alt:"Ícone de Link"})})]})}),E.jsxs(qm,{children:[E.jsx("h3",{children:e.title}),E.jsx("p",{children:e.description})]})]},e.id)),e0=X.div`
+`,bm=()=>Ym.map(e=>E.jsxs(Xm,{children:[E.jsx(Zm,{$src:e.image,children:E.jsxs(Jm,{children:[E.jsx("a",{href:e.gitlink,target:"_blank",children:E.jsx("img",{src:"./midia/logos/github.svg",alt:"Ícone do Github"})}),E.jsx("a",{href:e.pagelink,target:"_blank",children:E.jsx("img",{src:"./midia/logos/link.svg",alt:"Ícone de Link"})})]})}),E.jsxs(qm,{children:[E.jsx("h3",{children:e.title}),E.jsx("p",{children:e.description})]})]},e.id)),e0=X.div`
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
