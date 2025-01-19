@@ -1,33 +1,33 @@
 [
     {
         "id": 0,
-        "image": "url(./midia/images/calculadora-ze.png)",
-        "title": "Calculadora do Zé",
-        "description": "Consiste em uma aplicação criada para garantir assertividade na hora de escolher a cerveja que irá ter o melhor CUSTO x ML para seus eventos.",
+        "image": "url(./midia/images/faturamento.png)",
+        "title": "Demonstrativo de Faturamento",
+        "description": "Demonstrativo com o desempenho financeiro de cada unidade. Inclui gráficos de faturamento por filial, tendências de crescimento e comparativos com metas e períodos anteriores.",
         "gitlink": "https://github.com/jvitor88/calculadora_do_ze",
         "pagelink": "https://jvitor88.github.io/calculadora_do_ze/"
     },
     {
         "id": 1,
-        "image":"url(./midia/images/portifolio-fotografo.png)",
-        "title": "Portifolio Fotógrafo",
-        "description": "Projeto de um portfólio para fotógrafos responsivo, exibindo uma seleção de suas melhores fotos. Além de incluir uma seção de biografia e opções de contato para atrair clientes em potencial e demonstrar suas habilidades fotográficas.",
+        "image":"url(./midia/images/ranking.png)",
+        "title": "Ranking Gerência",
+        "description": "Ranqueia os gestores com base nos indicadores: faturamento das unidades sob sua gestão, ticket médio e notas de avaliação da supervisão. Permitindo identificar aqueles com oportunidades de melhoria, alinhando decisões a objetivos estratégicos.",
         "gitlink": "https://github.com/jvitor88/Portifolio-Fotografo",
         "pagelink": "https://jvitor88.github.io/Portifolio-Fotografo/"
     },
     {
         "id": 2,
-        "image":"url(./midia/images/github-api.png)",
-        "title": "Projeto Fetch com API do Github",
-        "description": "Aplicação criada se baseando desafio do curso DevQuest, onde foi solicitado a criação de uma page que busca os dados dos usuários do Github através de uma api.",
+        "image":"url(./midia/images/hubweb.png)",
+        "title": "HUB Web",
+        "description": "Hub Web com os principais dashboards necessários para tomada de decisão dos gestores, com verificação de identidade.",
         "gitlink": "https://github.com/jvitor88/projeto-github-api",
         "pagelink": "https://jvitor88.github.io/projeto-github-api/"
     },
     {
         "id": 3,
-        "image":"url(./midia/images/lista-compras.png)",
-        "title": "Lista de Compras",
-        "description": "Aplicação criada se baseando no desafio do Matheus Battisti - Hora de Codar, onde criei uma lista de compras personalizada onde é possível marcar os produtos já selecionados facilitando o controle.",
+        "image":"url(./midia/images/transito.png)",
+        "title": "Análise de Acidentes de Trânsito",
+        "description": "Projeto de conclusão da matéria DATA ANALYTCS, transformando unica tabela em visão Fato x Dimensão, para responder 25 indicadores solicitados. ",
         "gitlink": "https://github.com/jvitor88/lista-compras",
         "pagelink": "http://compras.jvsilveira.dev.br/"
     },
@@ -35,7 +35,7 @@
         "id": 4,
         "image":"url(./midia/images/dashboard.png)",
         "title": "Dashboard de Vendas",
-        "description": "Projeto de um dashboard de vendas, ferramenta que proporciona uma visão consolidada e em tempo real dos dados relacionados às atividades de vendas de uma empresa.",
+        "description": "Dashboard de vendas, com menu de navegação em diversas visões.",
         "gitlink": "https://github.com/jvitor88/Sales-Dashboard",
         "pagelink": "https://dashboard.jvsileira.dev.br"
     }

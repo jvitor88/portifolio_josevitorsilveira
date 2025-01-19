@@ -1,23 +1,23 @@
 [
     {
         "id": 0,
-        "nome": "React.js",
-        "logo": "./midia/logos/react.png"
+        "nome": "Power BI",
+        "logo": "./midia/logos/powerbi.png"
     },
     {
         "id": 1,
-        "nome": "Javascript",
-        "logo": "./midia/logos/javascript.png"
+        "nome": "Excel",
+        "logo": "./midia/logos/excel.png"
     },
     {
         "id": 2,
-        "nome": "Typescript",
-        "logo": "./midia/logos/typescript.png"
+        "nome": "DAX",
+        "logo": "./midia/logos/dax.png"
     },
     {
         "id": 3,
-        "nome": "Tailwind",
-        "logo": "./midia/logos/tailwind.png"
+        "nome": "Javascript",
+        "logo": "./midia/logos/javascript.png"
     },
     {
         "id": 4,
@@ -26,13 +26,13 @@
     },
     {
         "id": 5,
-        "nome": "HTML",
-        "logo": "./midia/logos/html.png"
+        "nome": "SQL",
+        "logo": "./midia/logos/sql.png"
     },
     {
         "id": 6,
-        "nome": "CSS",
-        "logo": "./midia/logos/css.png"
+        "nome": "ETL",
+        "logo": "./midia/logos/etl.png"
     },
     {
         "id": 7,

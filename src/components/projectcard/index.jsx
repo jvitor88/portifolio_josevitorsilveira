@@ -52,13 +52,13 @@ const Links = styled.div`
     border-radius: 10px 10px 0px 0px;
     background-color: #000000a9;
     opacity: 0;
-    &:hover{
+    /* &:hover{
         opacity: 1;
         transition-delay:0.2s;
     }
     @media (max-width: 450px) {
         width: 320px;
-    }
+    } */
 `
 
 const StyledDesc = styled.div`
@@ -78,8 +78,12 @@ const ProjectCard = () => {
         <StyledCard key={project.id}>
             <ImageContainer $src={project.image}>
                 <Links>
-                    <a href={project.gitlink} target='_blank'><img src="./midia/logos/github.svg" alt="Ícone do Github"/></a>
-                    <a href={project.pagelink} target='_blank'><img src="./midia/logos/link.svg" alt="Ícone de Link"/></a>
+                    {/* <a href={project.gitlink} target='_blank'> */}
+                        <img src="./midia/logos/github.svg" alt="Ícone do Github"/>
+                    {/* </a> */}
+                    {/* <a href={project.pagelink} target='_blank'> */}
+                        <img src="./midia/logos/link.svg" alt="Ícone de Link"/>
+                    {/* </a> */}
                 </Links>
             </ImageContainer>
             <StyledDesc>

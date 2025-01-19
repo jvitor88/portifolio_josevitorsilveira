@@ -97,9 +97,9 @@ const Intro = () => {
             <StyledIntro id="intro">
                 <StyledName>
                     <h1>Olá, eu sou o <br/> <img src="./midia/logos/j-logo.png" alt="logo da letra J"/>osé Vitor <br/> <img src="./midia/logos/s-logo.png" alt="logo da letra S"/>ilveira</h1>
-                    <p>Desenvolvedor FrontEnd</p>
+                    <p>Analista de Dados | Business Intelligence</p>
                     <div>
-                        <a href="./Curriculum Vitae - Jose Vitor da Silveira Cunha.pdf" download>
+                        <a href="./Curriculum Vitae - Jose Vitor da Silveira Cunha 2025.pdf" download>
                             <button>
                                 <img src="./midia/logos/cv.png" alt="Ícone do Github"/>  Currículo
                             </button>
