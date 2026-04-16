@@ -58,8 +58,8 @@ const AboutMe = () => {
                 <img src="./midia/images/Foto-perfil.jpg" alt="Foto de José Silveira" />
                 <StyledText>
                     <Subtitle>Sobre Mim</Subtitle>
-                    <p>Meu nome é José Vitor Silveira, sou Analista de Dados Sênior, formado em Análise de Sistemas e pós-graduado em Business Intelligence. Atuo na modelagem e integração de dados, no desenvolvimento de dashboards e KPIs e no suporte a projetos industriais de refino, gás e energia.
-                        Com foco em planejamento, fiscalização, análise de produtividade e metodologias AWP com modelos 3D, contribuindo para decisões mais rápidas e precisas em ambientes industriais.</p>
+                    <p>Meu nome é José Vitor Silveira, sou Analista de Dados Sênior, formado em Análise de Sistemas e pós-graduado em Business Intelligence. Atuo em gestão orientada a dados, especialista na criação de painéis gerenciais e no desenvolvimento de processos robustos de ETL. Domínio de
+ferramentas de BI, Python, Excel Avançado e da Power Platform.</p>
                 </StyledText>
             </StyledAbout>
         </section>
